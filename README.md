@@ -111,7 +111,7 @@ The application also provides encryption and decryption features along with acti
 
 ![Phishing Detector](file.png)
 
-### 🔐 Encryption & Decryption
+### 🔐 Encrypttion & Decryption
 
 ![Encryption](encrypt,decrypt.png)
 
