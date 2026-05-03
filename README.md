@@ -61,7 +61,7 @@ The application also provides encryption and decryption features along with acti
 
 ---
 
-### 🔐 Encryption & Decryption
+### 🔐 Encrypt & Decrypt
 
 * Secure note encryption using Fernet cryptography
 * Allows users to safely encrypt and decrypt sensitive data
